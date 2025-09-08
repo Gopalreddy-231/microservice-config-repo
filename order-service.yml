@@ -8,7 +8,7 @@ spring:
       url: jdbc:postgresql://localhost:5432/orderdb
     driver-class-name: org.postgresql.Driver
     username: postgres
-    password: yourpassword
+    password: postgresql
 
 eureka:
   client:
